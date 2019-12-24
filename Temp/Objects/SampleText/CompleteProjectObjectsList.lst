@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.5.2.102"?>
+<Objects>
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package.ParentUnknown"
+    LastWriteTime="132162225900000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="131200402240000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="131485707380000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="131485706580000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\Runtime\Binary.lby"
+    LogicalPath="Libraries.Runtime"
+    Type="Library"
+    LastWriteTime="131091583340000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\Runtime\runtime.fun"
+    LogicalPath="Libraries.Runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="131091583340000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\Runtime\runtime.typ"
+    LogicalPath="Libraries.Runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="131091583340000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\Runtime\runtime.var"
+    LogicalPath="Libraries.Runtime.runtime.var"
+    Type="File"
+    LastWriteTime="131091583340000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\Operator\Binary.lby"
+    LogicalPath="Libraries.Operator"
+    Type="Library"
+    LastWriteTime="131091583340000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\Operator\operator.fun"
+    LogicalPath="Libraries.Operator.operator.fun"
+    Type="File"
+    LastWriteTime="131091583340000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\Operator\operator.typ"
+    LogicalPath="Libraries.Operator.operator.typ"
+    Type="File"
+    LastWriteTime="131091583340000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\Operator\operator.var"
+    LogicalPath="Libraries.Operator.operator.var"
+    Type="File"
+    LastWriteTime="131091583340000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\AsIecCon\Binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="131091583340000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="131091583340000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="131091583340000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="131091583340000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\astime\Binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="131091583340000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="131091583340000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="131091583340000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="131091583340000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\sys_lib\Binary.lby"
+    LogicalPath="Libraries.sys_lib"
+    Type="Library"
+    LastWriteTime="131194348100000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\sys_lib\sys_lib.fun"
+    LogicalPath="Libraries.sys_lib.sys_lib.fun"
+    Type="File"
+    LastWriteTime="131194348100000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\sys_lib\sys_lib.typ"
+    LogicalPath="Libraries.sys_lib.sys_lib.typ"
+    Type="File"
+    LastWriteTime="131194348100000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\sys_lib\sys_lib.var"
+    LogicalPath="Libraries.sys_lib.sys_lib.var"
+    Type="File"
+    LastWriteTime="131194348100000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\asstring\Binary.lby"
+    LogicalPath="Libraries.asstring"
+    Type="Library"
+    LastWriteTime="131194348160000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\asstring\asstring.fun"
+    LogicalPath="Libraries.asstring.asstring.fun"
+    Type="File"
+    LastWriteTime="131194348160000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\asstring\asstring.typ"
+    LogicalPath="Libraries.asstring.asstring.typ"
+    Type="File"
+    LastWriteTime="131194348160000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Libraries\asstring\asstring.var"
+    LogicalPath="Libraries.asstring.asstring.var"
+    Type="File"
+    LastWriteTime="131194348160000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\DriveLib\ANSIC.lby"
+    LogicalPath="DriveLib"
+    Type="Library"
+    LastWriteTime="132157099520000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\DriveLib\Types.typ"
+    LogicalPath="DriveLib.Types.typ"
+    Type="File"
+    LastWriteTime="132161388260000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\DriveLib\Constants.var"
+    LogicalPath="DriveLib.Constants.var"
+    Type="File"
+    LastWriteTime="132162289180000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\DriveLib\DriveLib.fun"
+    LogicalPath="DriveLib.DriveLib.fun"
+    Type="File"
+    LastWriteTime="132163147952375644"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\DriveLib\DriveStateMachine.c"
+    LogicalPath="DriveLib.DriveStateMachine.c"
+    Type="File"
+    LastWriteTime="132162280560000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\DriveLib\DoorStateMachine.c"
+    LogicalPath="DriveLib.DoorStateMachine.c"
+    Type="File"
+    LastWriteTime="132162255140000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\DriveLib\LedStateMachine.c"
+    LogicalPath="DriveLib.LedStateMachine.c"
+    Type="File"
+    LastWriteTime="132163146316646394"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Program\ANSIC.prg"
+    LogicalPath="Program"
+    Type="Program"
+    LastWriteTime="132162225900000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Program\Main.c"
+    LogicalPath="Program.Main.c"
+    Type="File"
+    LastWriteTime="132163151100269807"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Program\Types.typ"
+    LogicalPath="Program.Types.typ"
+    Type="File"
+    LastWriteTime="132162225900000000"
+    Private="true" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Logical\Program\Variables.var"
+    LogicalPath="Program.Variables.var"
+    Type="File"
+    LastWriteTime="132163155998040080"
+    Private="true" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\Config.pkg"
+    LogicalPath="SampleText"
+    Type="Configuration.ParentUnknown"
+    LastWriteTime="131194339020000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\Hardware.hw"
+    LogicalPath="SampleText.Hardware.hw"
+    Type="File"
+    LastWriteTime="132162319200000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\Hardware.hwl"
+    LogicalPath="SampleText.Hardware.hwl"
+    Type="File"
+    LastWriteTime="132162291160000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\Cpu.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74"
+    Type="Cpu"
+    LastWriteTime="132162291160000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\Cpu.sw"
+    LogicalPath="SampleText.4PP065_0571_P74.Cpu.sw"
+    Type="File"
+    LastWriteTime="132162225920000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\Cpu.per"
+    LogicalPath="SampleText.4PP065_0571_P74.Cpu.per"
+    Type="File"
+    LastWriteTime="131194339000000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\IoMap.iom"
+    LogicalPath="SampleText.4PP065_0571_P74.IoMap.iom"
+    Type="File"
+    LastWriteTime="132163155998196288"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\PvMap.vvm"
+    LogicalPath="SampleText.4PP065_0571_P74.PvMap.vvm"
+    Type="File"
+    LastWriteTime="131194339000000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\mapp\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.mapp"
+    Type="Package"
+    LastWriteTime="131194339000000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\Connectivity\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.Connectivity"
+    Type="Package"
+    LastWriteTime="131194339000000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="131194339000000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\TextSystem\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.TextSystem"
+    Type="Package"
+    LastWriteTime="131194339000000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="131194339000000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="131194339000000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="131194339000000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="131194339000000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="131194339000000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="131194339000000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="131194339000000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="131194339000000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="131194339000000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="131194339000000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="131194339000000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="131194339000000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\4PP065_0571_P74\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="SampleText.4PP065_0571_P74.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="131194339000000000" />
+  <Object
+    Path="C:\projects\KRBO-02-16\Bushmelev\LRlab23i\Physical\SampleText\Hardware.jpg"
+    LogicalPath="SampleText.Hardware.jpg"
+    Type="File"
+    LastWriteTime="132163115192659553"
+    Private="false" />
+</Objects>

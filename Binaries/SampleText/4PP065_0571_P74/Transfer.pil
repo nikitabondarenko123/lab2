@@ -1,0 +1,18 @@
+Connection "/IF=tcpip /LOPO=11159 /SA=2", "/RT=1000 /AM=* /SDT=5 /DAIP=10.1.1.13 /REPO=11159 /ANSL=1 /PT=11169"
+Diagnose
+DeleteMemory ROM
+Coldstart
+Download: ".\System\PP065J42.BR", "ROM"
+Coldstart
+Download: ".\ashwd.br", "SYSROM"
+Download: ".\asfw.br", "SYSROM"
+Download: ".\arconfig.br", "SYSROM"
+Download: ".\sysconf.br", "SYSROM"
+Warmstart
+Download: ".\Runtime.br", "ROM"
+Download: ".\sys_lib.br", "ROM"
+Download: ".\asstring.br", "ROM"
+Download: ".\iomap.br", "ROM"
+Download: ".\Role.br", "ROM"
+Download: ".\TCData.br", "SYSROM"
+Download: ".\User.br", "ROM"

@@ -1,0 +1,3 @@
+$(AS_PROJECT_PATH)/Logical/DriveLib/DriveLib.fun
+$(AS_PROJECT_PATH)/Logical/DriveLib/Types.typ
+$(AS_PROJECT_PATH)/Logical/Program/Variables.var
